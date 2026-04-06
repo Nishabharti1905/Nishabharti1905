@@ -3,7 +3,7 @@
 <p align="center">
   <b>Linux System Administrator · Python Developer · IT Support Specialist</b><br/>
   📍 Pune, Maharashtra &nbsp;|&nbsp; 📧 nishabharti845@gmail.com &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/nishabharti">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/nisha-bharti-898046229">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/Nishabharti1905">GitHub</a>
 </p>
 
